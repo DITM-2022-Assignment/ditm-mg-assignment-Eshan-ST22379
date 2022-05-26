@@ -1,0 +1,40 @@
+.Navigation-div {
+  background-color: rgb(28, 103, 103);
+  height: 200px;
+  width: 200vw;
+}
+
+h1 {
+  background-color: rgb(255, 255, 255);
+  font-family: "Times New Roman", Times, serif;
+}
+
+.Content-div {
+  background-color: rgb(17, 138, 160);
+  height: 200px;
+  width: 200vw;
+}
+
+.QuoteFlex-div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.left-div {
+  height: 150px;
+  width: 50vw;
+  background-color: antiquewhite;
+}
+
+.right-div {
+  height: 150px;
+  width: 50vw;
+  background-color: rgb(11, 196, 122);
+}
+
+.PageInformation-div {
+  background-color: rgb(18, 53, 210);
+  height: 200px;
+  width: 200vw;
+}
